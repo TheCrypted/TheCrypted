@@ -3,9 +3,9 @@
 
 Hello! I'm Aman Sharma, a passionate aspiring full stack engineer currently pursuing my studies at the University of Edinburgh. I'm deeply enthusiastic about leveraging technology to build innovative solutions that solve real-world problems.
 
-- 🔭 I have experience using **Java, Python, Node.js, HTML, CSS, TypeScript/JS, React, Tailwind, MongoDB**
+- 🔭 I have experience using **Java, Python, Node.js, Django, HTML, CSS, TypeScript/JS, React, Tailwind, mySQL**
 
-- 🌱 I’m currently learning **Django and Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **mail.aman@protonmail.com**
 
