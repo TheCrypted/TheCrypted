@@ -3,7 +3,7 @@
 
 Hello! I'm Aman Sharma, a passionate aspiring full stack engineer currently pursuing my studies at the University of Edinburgh. I'm deeply enthusiastic about leveraging technology to build innovative solutions that solve real-world problems.
 
-- 🔭 I have experience using **Java, Python, Node.js, JavaScript, Django, HTML, CSS, React, Tailwind, mySQL**
+- 🔭 I have experience using **Java, Python, Node.js, Express, Django, HTML, CSS, React, Tailwind, mySQL**
 
 - 🌱 I’m currently learning **C++ and C#**
 
