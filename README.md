@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">An aspiring full-stack developer</h3>
 
-Hello! I'm Aman Sharma, a passionate aspiring full stack engineer currently pursuing my studies at the University of Edinburgh. I'm deeply enthusiastic about leveraging technology to build innovative solutions that solve real-world problems.
+Hello! I'm Aman Sharma, a full stack developer currently pursuing my studies at the University of Edinburgh. I'm deeply enthusiastic about leveraging technology to build innovative solutions that solve real-world problems.
 
-- 🔭 I have experience using **C/C++, Java, Python, Node.js, Express, Django, HTML, CSS, React, Tailwind, mySQL**
+- 🔭 I have experience using **C, C++, Java, Python, Node.JS, Express.JS, Django, Flask, HTML, CSS, React.JS, Tailwind, mySQL, Bash**.
 
-- 🧠 I have worked with **PyData stack(Pandas, NumPy, matplotlib etc..), Tensorflow, Scikit-Learn** to create a variety ML models from regressions to Computer Vision applications
+- 🧠 I have worked with **PyData stack(Pandas, NumPy, matplotlib etc..), Tensorflow, Scikit-Learn** to create a variety ML models from regressions and reinforcement learning models to Computer Vision applications.
 
-- 🌱 I’m currently learning to implement **Deep reinforcement learning** via DNNs
+- 📈 I have worked with **C++, OpenGL, SDL, ROS** to create physics based simulations, rendering environments and other such calculation centric projects.
+
+- 🧑‍💻 I'm currently interning at Cadence Design Systems where I'm working on new features for their signature virtuoso suite of tools.
 
 - 📫 How to reach me **mail.aman@protonmail.com**
 
