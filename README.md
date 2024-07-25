@@ -8,6 +8,8 @@ Hello! I'm Aman Sharma, a full stack developer currently pursuing my studies at 
 - 🧠 I have worked with **PyData stack(Pandas, NumPy, matplotlib etc..), Tensorflow, Scikit-Learn** to create a variety ML models from regressions and reinforcement learning models to Computer Vision applications.
 
 - 📈 I have worked with **C++, OpenGL, SDL, ROS** to create physics based simulations, rendering environments and other such calculation centric projects.
+  
+- 🌐 I have developed numerous full stack web applications using technologies such as **Node.js, Express, Django, React, and SQLite**. These projects range from e-commerce platforms and scheduling tools to restaurant management systems, showcasing my ability to create robust, scalable, and user-friendly web solutions.
 
 - 🧑‍💻 I'm currently interning at Cadence Design Systems where I'm working on new features for their signature virtuoso suite of tools.
 
