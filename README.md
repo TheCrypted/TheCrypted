@@ -11,7 +11,7 @@ Hello! I'm Aman Sharma, a full stack developer currently pursuing my studies at 
   
 - 🌐 I have developed numerous full stack web applications using technologies such as **Node.js, Express, Django, React, and SQLite**. These projects range from e-commerce platforms and scheduling tools to restaurant management systems, showcasing my ability to create robust, scalable, and user-friendly web solutions.
 
-- 🧑‍💻 I'm currently interning at Cadence Design Systems where I'm working on new features for their signature virtuoso suite of tools.
+- 🧑‍💻 I previously interned at Cadence Design Systems where I worked on new features for their signature virtuoso suite of tools.
 
 - 📫 How to reach me **mail.aman@protonmail.com**
 
